@@ -1,0 +1,18 @@
+﻿@model Ebu.Northwind.MvcWebUI.Models.CartSummaryViewModel
+
+<ul class="dropdown-menu">
+    @foreach (var item in Model.cart.CartLines)
+    {
+        <li>
+            <a>@item.Product.ProductName <span class="badge">@item.Quantity</span></a>
+        </li>
+    }
+    <li role="separator" class="divider"></li>
+    <li>
+        <a><span class="glyphicon glyphicon-align-left glyphicon-shopping-cart" aria-hidden="true"></span>@Model.cart.Total</a>
+    </li>
+    <li role="separator" class="divider"></li>
+    <li>
+        <a asp-controller="Cart" asp-action="List">Go to cart details</a>
+    </li>
+</ul>

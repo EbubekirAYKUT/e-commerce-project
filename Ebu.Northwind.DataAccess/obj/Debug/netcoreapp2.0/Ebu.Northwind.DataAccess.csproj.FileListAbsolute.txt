@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.deps.json
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Core.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Northwind.Entities.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.pdb
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Core.pdb
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Ebu.Northwind.Entities.pdb
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Ebu.Northwind.DataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Ebu\Ebu.Core\bin\Debug\netcoreapp2.0\Ebu.Core.deps.json
+C:\Users\PC\source\repos\Ebu\Ebu.Core\bin\Debug\netcoreapp2.0\Ebu.Core.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ebu\Ebu.Core\bin\Debug\netcoreapp2.0\Ebu.Core.pdb
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.dll
+C:\Users\PC\source\repos\Ebu\Ebu.Core\obj\Debug\netcoreapp2.0\Ebu.Core.pdb
